@@ -10,3 +10,4 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | 3 | Zuber | The project objective was to consult the rideshare company Zuber by analyzing rideshare data to understand passenger preferences and the impact of external factors on rides via SQL database.|
 | 4 | E-Commerce Company | The project objective was to analyze raw transaction logs for an E-commerce company and present business analytical findings via spreadsheet. |
 | 5 | SuperStore Consult | The project task was to consult on SuperStore's operations and increase profitability to avoid bankruptcy via Tableau. |
+| 6 | SuperStore Returns | The project task was to prepare an analysis to help understand what is causing SuperStore's customers to return their orders and how to reduce the volume of returned orders via Tableau. |
